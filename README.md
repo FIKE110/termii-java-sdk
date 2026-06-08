@@ -15,7 +15,7 @@ Add to your `pom.xml`:
 <dependency>
   <groupId>io.github.fike110.termii</groupId>
   <artifactId>termii-java-sdk</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.0-SNAPSHOT</version>
 </dependency>
 ```
 
